@@ -1,0 +1,13 @@
+2024-11-13 10:47:01.805737 - Operation: Copy 
+Destination: nymapp 
+Files affected: 
+test.txt 
+hej.txt 
+program.py 
+
+2024-11-13 10:47:56.979529 - Operation: Delete 
+Files affected: 
+test.txt 
+hej.txt 
+program.py 
+
